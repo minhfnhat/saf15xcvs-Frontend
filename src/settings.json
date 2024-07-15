@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience the future of intelligent solutions designed to simplify your life",
+        "title": "Innovate Smarter, Not Harder"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the future of intelligent solutions designed to simplify your life",
+        "title": "Innovate Smarter, Not Harder"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the future of intelligent solutions designed to simplify your life",
+        "title": "Innovate Smarter, Not Harder"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the future of intelligent solutions designed to simplify your life",
+        "title": "Innovate Smarter, Not Harder"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the future of intelligent solutions designed to simplify your life",
+        "title": "Innovate Smarter, Not Harder"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the future of intelligent solutions designed to simplify your life",
+        "title": "Innovate Smarter, Not Harder"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the future of intelligent solutions designed to simplify your life",
+        "title": "Innovate Smarter, Not Harder"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the future of intelligent solutions designed to simplify your life",
+        "title": "Innovate Smarter, Not Harder"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Innovate Smarter, Not Harder",
+  "subtitle": "Experience the future of intelligent solutions designed to simplify your life"
+}
